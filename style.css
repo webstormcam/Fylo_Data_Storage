@@ -19,7 +19,7 @@ body{
 }
 
 .item1{
-    width: 245px;
+    width: 280px;
     border: 1px solid #1E2D69;
     border-radius: 0.5rem;
     border-top-right-radius: 4rem;
@@ -34,9 +34,25 @@ body{
 .icons{
     display: flex;
     flex-direction: row;
+   
     align-items: baseline;
+    margin-top: 1rem;
 }
 
 .icon{
+    
     height: 1.2rem;
+}
+
+.icon-holder{
+    background-color:#0C122C ;
+    padding: 0.6rem;
+    padding-left: 1rem ;
+    padding-right: 1rem;
+    width: 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 0.5rem;
+    margin-right: 1rem;
 }
