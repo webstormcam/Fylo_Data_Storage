@@ -19,10 +19,12 @@ body{
 }
 
 .item1{
-    width: 290px;
-    border: 1px solid yellow;
-    border-top-right-radius: 2rem;
+    width: 245px;
+    border: 1px solid #1E2D69;
+    border-radius: 0.5rem;
+    border-top-right-radius: 4rem;
     padding: 2rem;
+    background-color: #1E2D69;
 }
 
 .logo{
