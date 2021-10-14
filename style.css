@@ -34,4 +34,9 @@ body{
 .icons{
     display: flex;
     flex-direction: row;
+    align-items: baseline;
+}
+
+.icon{
+    height: 1.2rem;
 }
