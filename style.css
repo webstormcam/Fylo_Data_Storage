@@ -19,7 +19,7 @@ body{
 }
 
 .item1{
-    width: 280px;
+    width: 305px;
     border: 1px solid #1E2D69;
     border-radius: 0.5rem;
     border-top-right-radius: 4rem;
@@ -59,9 +59,19 @@ body{
 }
 
 .item2{
-    width: 280px;
+    width: 305px;
     border: 1px solid #1E2D69;
     border-radius: 0.5rem;
     padding: 2rem;
     background-color: #1E2D69;
+}
+
+.thin-white{
+    color: #DBD9FF;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+.thick{
+    font-weight: bold;
 }
