@@ -3,4 +3,3 @@ function bigger(){
     document.getElementById("used").style.transition ='all 2s'
 }
 
-bigger()
