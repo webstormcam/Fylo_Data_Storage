@@ -167,12 +167,11 @@ body{
 @media screen and (min-width: 768px){
 
     body{
-        /* background-image: url('imgs/bg-desktop.png');
+        background-image: url('imgs/bg-desktop.png');
         background-position: center;
         background-size: cover;
-       background-position: bottom; */
-    background-image: none;
-       background-color: #0C122C;
+       background-position: bottom; 
+    
        
         
     }
@@ -182,16 +181,17 @@ body{
         margin-left: 1rem;
         margin-right: 1rem;
         height: 700px;
+position: relative;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+
       
         
     }
 
-    .item-holder{
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        position: relative;
-    }
+   
 
    
 
@@ -232,6 +232,5 @@ body{
 
     
 }
-
 
 
