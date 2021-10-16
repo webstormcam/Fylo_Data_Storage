@@ -65,7 +65,11 @@ body{
     border-radius: 0.5rem;
     padding: 2rem;
     background-color: #1E2D69;
-  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    padding-bottom: 4rem;
 }
 
 .thin-white{
@@ -86,6 +90,7 @@ body{
     margin-top: 1rem;
     border-radius: 1rem;
     position: relative;
+    width: 90%;
 }
 
 .white_circle{
@@ -115,6 +120,33 @@ body{
     flex-direction: row;
     justify-content: space-between;
     margin-top: 1rem;
+    width: 90%;
+}
+
+.whitecube{
+    padding: 1rem;
+    background-color: #fff;
+    width: 200px;
+    text-align: center;
+    border-radius: 1rem;
+  position: absolute;
+  top: 8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.big{
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.small{
+    color: grey;
+    font-size: 0.8rem;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
 }
 
 
