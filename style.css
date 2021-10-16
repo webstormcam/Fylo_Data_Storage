@@ -169,9 +169,9 @@ body{
     body{
         background-image: url('imgs/bg-desktop.png');
         background-position: center;
-        background-size: 100% 60%;
-       background-position: bottom; 
-       background-color: #0C122C;
+        /* background-size: 100% 60%; */
+       /* background-position: bottom; 
+       background-color: #0C122C; */
     
        
         
