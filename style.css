@@ -75,6 +75,8 @@ body{
 
 .thick{
     font-weight: bold;
+    color:#DBD9FF;
+    font-size: 0.8rem;
 }
 
 .memory{
@@ -111,6 +113,7 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin-top: 1rem;
 }
 
 
