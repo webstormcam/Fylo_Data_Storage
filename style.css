@@ -201,13 +201,13 @@ body{
     .arrow-left {
         width: 0; 
         height: 0; 
-        border-top: 10px solid transparent;
-        border-bottom: 10px solid transparent; 
+        border-top: 30px solid transparent;
+        border-bottom: 30px solid transparent; 
         display: block;
-        border-right:10px solid #fff; 
+        border-right:30px solid #fff; 
         position: absolute;
-        top: 0.4rem;
-        right: 2rem;
+        top: -1rem;
+        right: 1.5rem;
       }
 
     
