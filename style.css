@@ -10,6 +10,7 @@ body{
     background-image: url('imgs/bg-mobile.png');
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 100vh;
 }
 
 #content{
